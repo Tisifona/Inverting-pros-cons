@@ -1,3 +1,3 @@
-G:/Projects/Inverting pros&cons/cmake-build-debug/CMakeFiles/edit_cache.dir
-G:/Projects/Inverting pros&cons/cmake-build-debug/CMakeFiles/Inverting_pros_cons.dir
-G:/Projects/Inverting pros&cons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/Projects/Adriana_Rozrakh/cmake-build-debug/CMakeFiles/Adriana_Rozrakh.dir
+G:/Projects/Adriana_Rozrakh/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Projects/Adriana_Rozrakh/cmake-build-debug/CMakeFiles/rebuild_cache.dir

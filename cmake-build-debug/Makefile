@@ -47,10 +47,10 @@ RM = C:\Users\Oleh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.4343.16\b
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "G:\Projects\Inverting pros&cons"
+CMAKE_SOURCE_DIR = G:\Projects\Adriana_Rozrakh
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "G:\Projects\Inverting pros&cons\cmake-build-debug"
+CMAKE_BINARY_DIR = G:\Projects\Adriana_Rozrakh\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Projects\Inverting pros&cons\cmake-build-debug\CMakeFiles" "G:\Projects\Inverting pros&cons\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start G:\Projects\Adriana_Rozrakh\cmake-build-debug\CMakeFiles G:\Projects\Adriana_Rozrakh\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "G:\Projects\Inverting pros&cons\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start G:\Projects\Adriana_Rozrakh\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -110,17 +110,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Inverting_pros_cons
+# Target rules for targets named Adriana_Rozrakh
 
 # Build rule for target.
-Inverting_pros_cons: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 Inverting_pros_cons
-.PHONY : Inverting_pros_cons
+Adriana_Rozrakh: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Adriana_Rozrakh
+.PHONY : Adriana_Rozrakh
 
 # fast build rule for target.
-Inverting_pros_cons/fast:
-	$(MAKE) -f CMakeFiles\Inverting_pros_cons.dir\build.make CMakeFiles/Inverting_pros_cons.dir/build
-.PHONY : Inverting_pros_cons/fast
+Adriana_Rozrakh/fast:
+	$(MAKE) -f CMakeFiles\Adriana_Rozrakh.dir\build.make CMakeFiles/Adriana_Rozrakh.dir/build
+.PHONY : Adriana_Rozrakh/fast
 
 main.obj: main.cpp.obj
 
@@ -128,7 +128,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) -f CMakeFiles\Inverting_pros_cons.dir\build.make CMakeFiles/Inverting_pros_cons.dir/main.cpp.obj
+	$(MAKE) -f CMakeFiles\Adriana_Rozrakh.dir\build.make CMakeFiles/Adriana_Rozrakh.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -137,7 +137,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles\Inverting_pros_cons.dir\build.make CMakeFiles/Inverting_pros_cons.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles\Adriana_Rozrakh.dir\build.make CMakeFiles/Adriana_Rozrakh.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -146,7 +146,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles\Inverting_pros_cons.dir\build.make CMakeFiles/Inverting_pros_cons.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles\Adriana_Rozrakh.dir\build.make CMakeFiles/Adriana_Rozrakh.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -155,8 +155,8 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
+	@echo ... Adriana_Rozrakh
 	@echo ... edit_cache
-	@echo ... Inverting_pros_cons
 	@echo ... rebuild_cache
 	@echo ... main.obj
 	@echo ... main.i

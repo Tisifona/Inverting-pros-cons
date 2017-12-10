@@ -1,3 +1,0 @@
-C:\Users\Oleh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.4343.16\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\Inverting_pros_cons.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Inverting_pros_cons.dir/objects.a @CMakeFiles\Inverting_pros_cons.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Inverting_pros_cons.dir/objects.a -Wl,--no-whole-archive  -o Inverting_pros_cons.exe -Wl,--out-implib,libInverting_pros_cons.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Inverting_pros_cons.dir\linklibs.rsp

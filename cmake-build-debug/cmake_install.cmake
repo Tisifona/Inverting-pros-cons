@@ -1,8 +1,8 @@
-# Install script for directory: G:/Projects/Inverting pros&cons
+# Install script for directory: G:/Projects/Adriana_Rozrakh
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Inverting_pros_cons")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Adriana_Rozrakh")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "G:/Projects/Inverting pros&cons/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "G:/Projects/Adriana_Rozrakh/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

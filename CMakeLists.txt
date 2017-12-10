@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.8)
-project(Inverting_pros_cons)
+project(Adriana_Rozrakh)
 
 set(CMAKE_CXX_STANDARD 17)
 
 set(SOURCE_FILES main.cpp)
-add_executable(Inverting_pros_cons ${SOURCE_FILES})
+add_executable(Adriana_Rozrakh ${SOURCE_FILES})

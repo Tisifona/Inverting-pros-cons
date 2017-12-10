@@ -1,4 +1,4 @@
-C:\Users\Oleh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.4343.16\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "G:\Projects\Inverting pros&cons"
+C:\Users\Oleh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.4343.16\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" G:\Projects\Adriana_Rozrakh
 -- The C compiler identification is GNU 5.3.0
 -- The CXX compiler identification is GNU 5.3.0
 -- Check for working C compiler: C:/MinGW/bin/gcc.exe
@@ -15,4 +15,4 @@ C:\Users\Oleh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\172.4343.16\bin\cm
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: G:/Projects/Inverting pros&cons/cmake-build-debug
+-- Build files have been written to: G:/Projects/Adriana_Rozrakh/cmake-build-debug
